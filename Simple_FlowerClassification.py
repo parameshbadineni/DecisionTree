@@ -1,6 +1,6 @@
-# ========================================
-# DECISION TREE - COMPLETE PYTHON GUIDE
-# ========================================
+# ========================================================================================================================
+# DECISION TREE - COMPLETE PYTHON GUIDE with Simple Classification and Iris Flower Classification
+# ========================================================================================================================
 
 # Import necessary libraries
 import numpy as np
